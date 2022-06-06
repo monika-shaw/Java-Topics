@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8ãéó“0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Âæ“ú8ãéó“0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ãéó“0
+M
+java:S18742"0Remove this use of "readLine"; it is deprecated.(€èü8òéó“0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8òéó“0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8òéó“0
+W
+java:S1854Q":Remove this useless assignment to local variable "client".(œ×Ã®8òéó“0
+M
+java:S1481P"+Remove this unused "client" local variable.(³³ ‰ÿÿÿÿÿ8òéó“0

@@ -1,0 +1,15 @@
+
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(γψ©Ζώÿÿÿÿ8Ίυς’0
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÿΎΠόÿÿÿÿ8Γυς’0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ώ¦ε`8πυς’0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¬Ίθ8υυς’0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Χ¨ϊÿÿÿÿ8χυς’0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ψ‰ρλ8ϊυς’0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(¬Ίθ8›υς’0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Χ¨ϊÿÿÿÿ8ƒ›υς’0
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ψ‰ρλ8…›υς’0
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Ζΐϋύ8‡›υς’0
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(Ζΐϋύ8‰›υς’0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ζΐϋύ8›υς’0

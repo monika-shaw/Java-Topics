@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8ÆÚ™ú’0
+B
+java:S1659"%Declare "strName" on a separate line.(ç‹¥ù8øÚ™ú’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËÎÃ8±Û™ú’0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(´Ì´¯8ÅÛ™ú’0
+^	java:S899."BDo something with the "boolean" value returned by "createNewFile".(á‡³8èÛ™ú’0
+E	java:S1082")Either remove or fill this block of code.(«÷À8‚Ü™ú’0

@@ -1,0 +1,18 @@
+
+b
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(¡ÓÜŒùÿÿÿÿ8¢Ç¥ó’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÖÉ­8²Ç¥ó’0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’—áÇüÿÿÿÿ8µÇ¥ó’0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬·¤¯şÿÿÿÿ8¶Ç¥ó’0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ìÂµøÿÿÿÿ8¸Ç¥ó’0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(–êù”üÿÿÿÿ8¼Ç¥ó’0
+\
+java:S1161/":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ8ÃÇ¥ó’0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(³óïØüÿÿÿÿ8ÆÇ¥ó’0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¼¦ßğıÿÿÿÿ8ÈÇ¥ó’0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(°ÅÃì8ÊÇ¥ó’0
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(³óïØüÿÿÿÿ8ÓÇ¥ó’0
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8Şº©ó’0
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ßº©ó’0

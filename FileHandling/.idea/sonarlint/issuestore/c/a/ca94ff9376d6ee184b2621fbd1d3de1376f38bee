@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ëÿàõùÿÿÿÿ8á¡ç“0
+p
+java:S4042
+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ8â¡ç“0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚»åo8â¡ç“0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õÚ‘ñ8â¡ç“0
