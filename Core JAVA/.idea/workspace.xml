@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494beaaa-f326-4bc9-8903-751c8cd6fc59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Addelearr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Areatri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Arreven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Arrmerge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Copyarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Copyconstr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Counteven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Createconstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cubearr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cubearrfunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cuberootfunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cuberootnor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Factorialarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Findarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Largestarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MethodArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Multilevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Naturalsum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PassFunct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Primenumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Quadeq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Recurdion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Removestatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sortedarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sqr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Staicblock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Staticvar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Stringbuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Stringmethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Twoarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Twoarrmerge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Allarea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Hiarcial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Over.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Override.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Test4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company1/Test5.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25Ej3aumyvNx4BfopjCooz8DHX0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Collection" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.InheritanceOverride">
+    <configuration name="InheritanceOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inhertance.InheritanceOverride" />
+      <module name="Core JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderofExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inhertance.OrderofExecution" />
+      <module name="Core JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderofExecution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inhertance.OrderofExecution2" />
+      <module name="Core JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderofExecution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inhertance.OrderofExecution3" />
+      <module name="Core JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderofExecution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inhertance.OrderofExecution4" />
+      <module name="Core JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InheritanceOverride" />
+        <item itemvalue="Application.OrderofExecution4" />
+        <item itemvalue="Application.OrderofExecution" />
+        <item itemvalue="Application.OrderofExecution2" />
+        <item itemvalue="Application.OrderofExecution3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494beaaa-f326-4bc9-8903-751c8cd6fc59" name="Changes" comment="" />
+      <created>1645098950028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645098950028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Example.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Example.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Example.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Example.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_JAVA$Student_3.ic" NAME="Student_3 Coverage Results" MODIFIED="1651943896268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>constructor.*</FILTER>
+    </SUITE>
+  </component>
+</project>
